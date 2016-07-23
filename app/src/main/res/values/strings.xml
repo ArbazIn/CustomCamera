@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCam</string>
+    <string name="capture_image">Snap it!</string>
+    <string name="recapture_image">Retake</string>
+    <string name="back_cam">Back</string>
+    <string name="front_cam">Front</string>
+    <string name="flash_on">flash On</string>
+    <string name="flash_off">Flash Off</string>
+</resources>
